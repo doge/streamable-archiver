@@ -22,7 +22,7 @@ page_num = 1
 video_count = 0
 
 print("streamable archiver")
-print("https://github.com/doge/stremable-archiver\n")
+print("https://github.com/doge/streamable-archiver\n")
 
 username = input("username: ")
 password = getpass("password: ")
